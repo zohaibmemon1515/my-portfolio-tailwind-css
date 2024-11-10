@@ -82,7 +82,7 @@ const Hero = () => {
               <Image
                 alt="hero"
                 src="/assests/img/profilepicture.jpeg"
-                width={800}
+                width={800} 
                 height={100}
                 className="w-[16rem] h-[18rem] md:w-[18rem] md:h-[19rem] lg:w-[20rem] lg:h-[21rem] rounded-xl transition-transform duration-300 hover:scale-105 shadow-[8px_8px_15px_rgba(0,0,0,0.4)] object-cover mb-3 lg:mr-20 md:mr-5 mt-20 lg:mt-0 md:mt-0"
               />
