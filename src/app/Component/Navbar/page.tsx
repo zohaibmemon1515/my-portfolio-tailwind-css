@@ -54,7 +54,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                href="/components/AboutMe"
+                href="/Component/AboutMe"
               >
                 About Me
               </Link>
@@ -62,7 +62,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                href="/components/Services"
+                href="/Component/Service"
               >
                 Services
               </Link>
@@ -70,7 +70,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                href="/components/Skills"
+                href="/Component/Skill"
               >
                 Skills
               </Link>
@@ -78,7 +78,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                href="/components/Projects"
+                href="/Component/Project"
               >
                 Portfolio
               </Link>
@@ -86,7 +86,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                href="/components/Contact"
+                href="/Component/Contact"
               >
                 Contact
               </Link>
@@ -139,7 +139,7 @@ const Navbar = () => {
               <li>
                 <Link
                   className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                  href="/components/AboutMe"
+                  href="/Component/AboutMe"
                 >
                   About Me
                 </Link>
@@ -147,7 +147,7 @@ const Navbar = () => {
               <li>
                 <Link
                   className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                  href="/components/Services"
+                  href="/Component/Service"
                 >
                   Services
                 </Link>
@@ -155,7 +155,7 @@ const Navbar = () => {
               <li>
                 <Link
                   className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                  href="/components/Skills"
+                  href="/Component/Skill"
                 >
                   Skills
                 </Link>
@@ -163,7 +163,7 @@ const Navbar = () => {
               <li>
                 <Link
                   className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                  href="/components/Projects"
+                  href="/Component/Project"
                 >
                   Portfolio
                 </Link>
@@ -171,7 +171,7 @@ const Navbar = () => {
               <li>
                 <Link
                   className="transition-all duration-300 ease-in transform hover:scale-105 hover:text-[#F86F03]"
-                  href="/components/Contact"
+                  href="/Component/Contact"
                 >
                   Contact
                 </Link>
