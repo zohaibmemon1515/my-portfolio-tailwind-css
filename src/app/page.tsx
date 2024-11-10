@@ -3,6 +3,7 @@ import AboutMe from "./Component/AboutMe/page";
 import Service from "./Component/Service/page";
 import Skills from "./Component/Skill/page";
 import Projects from "./Component/Project/page";
+import Contact from "./Component/Contact/page";
 
 export default function Home() {
   return (
@@ -21,6 +22,9 @@ export default function Home() {
       </section>
       <section id="Project">
         <Projects />
+      </section>
+      <section id="Contact">
+        <Contact />
       </section>
     </div>
   );
